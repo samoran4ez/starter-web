@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 Just contribute without questions and makin a noise
+
+## Copyright
+
+All rigths reserved by Pavel Iv
