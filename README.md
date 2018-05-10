@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This repository is for showing how Git and GitHub work. Adding a line for rebasing, then a line for README.md
+This repository is for showing how Git and GitHub work. Adding a line for rebasing, then a line for README.md. Updatind emergency fix after stashing.
 
 ## Purpose
 
