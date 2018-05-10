@@ -12,4 +12,4 @@ Just contribute without questions and makin a noise
 
 ## Copyright
 
-All rigths reserved by Pavel Iv
+All rigths reserved by Pavel Iv in 2018
