@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Pavel Iv	pavel.iv@gmail.com	@plitochka
 
 # THANKS
 
